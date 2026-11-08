@@ -1,5 +1,7 @@
 # Helmlab Experimental
 
+> **Note (2026-11):** The win counts in this README are pre-v4 ColorBench figures and are withdrawn. Kept for reference; no longer maintained. Current status: [helmlab.space](https://helmlab.space).
+
 Research experiments, optimization checkpoints, and analysis scripts for [Helmlab](https://github.com/Grkmyldz148/helmlab) GenSpace development.
 
 This repository documents the complete optimization journey — from the initial OKLab-based GenSpace (23/43 benchmark wins) through softened cube root (27/48 wins) to the current depressed cubic pipeline (**59/83 wins** vs OKLab on [ColorBench](https://github.com/Grkmyldz148/colorbench)).
